@@ -1,6 +1,6 @@
 # Recriando layout - Extra
 
-![preview](./preview_01.png)
+![preview](./.github/preview_01.png)
 
 > Trilha Explorer 06
 
