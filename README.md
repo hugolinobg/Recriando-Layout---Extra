@@ -1,4 +1,4 @@
-# Recriando layout - Extra
+# Desafio do Stage 02 - Recriando Layout Extra
 
 ![preview](./.github/preview_01.png)
 
